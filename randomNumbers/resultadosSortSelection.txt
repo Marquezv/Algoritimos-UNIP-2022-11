@@ -1,0 +1,12 @@
+numeros100_decresente.txt --- Quantidade de operações - : 5000
+numeros100_crescente.txt --- Quantidade de operações - : 5043
+numeros100_convexa.txt --- Quantidade de operações - : 5045
+numeros100_concava.txt --- Quantidade de operações - : 5045
+numeros1000_decresente.txt --- Quantidade de operacões - : 500000
+numeros1000_crescente.txt --- Quantidade de operacões - : 500079
+numeros1000_convexa.txt --- Quantidade de operacões - : 500076
+numeros1000_concava.txt --- Quantidade de operacões - : 500082
+numeros5000_decresente.txt --- Quantidade de operações - : 12500000
+numeros5000_crescente.txt --- Quantidade de operacões - : 1619100
+numeros5000_convexa.txt --- Quantidade de operacões - : 2720278
+numeros5000_concava.txt --- Quantidade de operacões - : 2720278
